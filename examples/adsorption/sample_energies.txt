@@ -1,0 +1,6 @@
+# Example energies for H2O on MgO (all in Ry)
+E_H2O = -16.8452
+E_MgO = -245.1234
+Site 1 (top): E_MgO+H2O = -261.7891
+Site 2 (bridge): E_MgO+H2O = -261.7923  
+Site 3 (hollow): E_MgO+H2O = -261.7889
